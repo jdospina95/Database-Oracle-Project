@@ -1,0 +1,27 @@
+<Ordenes_Compras>
+	<Cliente ClienteID="1234567891111">
+		<Nombre>Andres</Nombre>
+		<Apellido>Gallego</Apellido>
+		<TipoCliente>Preferido</TipoCliente>
+		<Telefono>5558585</Telefono>
+		<Datos_Contacto>blablabla</Datos_Contacto>
+		<Direccion_Completa>
+			<Direccion>aaa@aaa.com</Direccion>
+			<Ciudad>Cali</Ciudad>
+			<Departamento>Valle</Departamento>
+			<Pais>Colombia</Pais>
+		</Direccion_Completa>
+	</Cliente>
+	<Orden NumOrden="1" Fecha="2016-09-30">
+		<Items>
+			<Item> 
+				<ROW>
+					<IDProducto>1</IDProducto>
+					<Nombre_Producto>Leche</Nombre_Producto>
+					<Cantidad>20</Cantidad>
+					<Precio>1200000</Precio>
+				</ROW>
+			</Item>
+		</Items>
+	</Orden>
+</Ordenes_Compras>

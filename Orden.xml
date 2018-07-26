@@ -1,0 +1,13 @@
+<orden>
+    <NIT>2222222222222</NIT>
+    <productos>
+        <Producto>
+            <idproducto>1</idproducto>
+            <cantidad>500</cantidad>
+        </Producto>
+        <Producto>
+            <idproducto>2</idproducto>
+            <cantidad>7000</cantidad>
+        </Producto>
+    </productos>
+</orden>
